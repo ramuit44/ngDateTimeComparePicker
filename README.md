@@ -14,6 +14,6 @@ Where <br>
 --compare-with-date-model is the model date that we are comparing with and populate the bind-year-model and bind-month-model accordingly.<br>
 
 
-![ScreenShot]()
+![ScreenShot](https://github.com/ramuit44/ngDateTimeComparePicker/blob/master/screenshot1.png)
 
 
