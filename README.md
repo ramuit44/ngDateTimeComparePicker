@@ -3,7 +3,7 @@ Angular DateTime Wrapper directive with multiple callbacks exposed Over Bootstra
 
 # Usage
 ```html
-<div lola-datetimepicker ng-model="vm.modalData.paymentEndDate" options="vm.options" on-click="vm.onMFDateWidgetClick()" bind-year-model="vm.modalData.termYears" bind-month-model="vm.modalData.termMonths" compare-with-date-model="vm.modalData.maturityDate">
+<div ng-date-time-compare-picker ng-model="vm.modalData.paymentEndDate" options="vm.options" on-click="vm.onMFDateWidgetClick()" bind-year-model="vm.modalData.termYears" bind-month-model="vm.modalData.termMonths" compare-with-date-model="vm.modalData.maturityDate">
 ```
 
 Where <br>
