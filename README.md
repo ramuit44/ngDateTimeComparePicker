@@ -15,7 +15,7 @@ Where <br>
 
 
 ![ScreenShot](https://github.com/ramuit44/ngDateTimeComparePicker/blob/master/screenshot1.png)
-<p></p>
+<br>
 ![ScreenShot](https://github.com/ramuit44/ngDateTimeComparePicker/blob/master/screenshot2.png)
 
 
