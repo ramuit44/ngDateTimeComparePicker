@@ -1,4 +1,4 @@
-macApp.directive('lolaDateTimeComparePicker', ['$timeout', function ($timeout) {
+macApp.directive('ngDateTimeComparePicker', ['$timeout', function ($timeout) {
     //Wrapper directive around the Bootstrap 3's date-picker functionality. https://eonasdan.github.io/bootstrap-datetimepicker/#bootstrap-3-datepicker-v4-docs
     // Author: Sriram Puvvada
 	 return {
