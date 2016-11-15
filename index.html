@@ -1,0 +1,16 @@
+<html ng-app='macApp'>
+	<div class="col-xs-12" ng-controller="ControllerOne as vm">
+						<div class="col-xs-5 row">
+													 <div class="form-group col-xs-12" >
+															<div class="input-group col-xs-12" lola-datetimepicker ng-model="vm.modalData.paymentEndDate" options="vm.options" on-click="vm.onMFDateWidgetClick()" bind-year-model="vm.modalData.termYears" bind-month-model="vm.modalData.termMonths" compare-with-date-model="vm.modalData.maturityDate">
+																<input type="text" placeholder="Pick a Date.."/>
+																<span class="input-group-addon">
+																		<span class="glyphicon glyphicon-calendar"></span>
+																</span>
+															</div>
+													</div>
+									  
+						</div>
+	</div>
+</html>
+				
